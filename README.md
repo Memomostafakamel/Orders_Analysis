@@ -9,7 +9,7 @@
 ## 🛠 Tools Used  
 
 - Excel – Data visualization and interactive dashboard creation
-- Power Query – Data cleaning and processing
+- Python – Data cleaning and processing
   
 <hr/>
 
@@ -22,9 +22,9 @@
 
 ## 📂 Files Included  
 
-- HR_Attrition_Dashboard.pbix [Click here to download the report](Hr_attrition.pbix) – Power BI dashboard file
-- HR_Attrition_Dataset.xlsx [Click here to download the data](Dataset.xlsx)– Raw and cleaned dataset
-- Dashboard_Design.pdf [Click here to view the report](Figma_backgrounds.pdf)– Background designs created in Figma
+- Excel_file.xlsx [Click here to download the report](Excel_file.xlsx) – Excel file
+- Dataset.xlsx [Click here to download the data](Dataset.xlsx)– Raw dataset
+- python_code_samples.png [Click here to view the code](python_code_samples.png)– python code
 
 
 <hr/>
