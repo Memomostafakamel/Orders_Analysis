@@ -1,7 +1,7 @@
 # 📊 Orders_Analysis
 
 ## 📌 Overview 
-
+This project demonstrates a complete data analysis workflow using Python and Microsoft Excel. The process started with cleaning and preparing raw data using Python (Pandas), followed by creating interactive dashboards in Excel to visualize key sales insights and performance metrics.
 
 
 <hr/>
@@ -15,6 +15,16 @@
 
 ## 🌟 Project Highlights  
 
+🧹 Data cleaning and preprocessing using Python with Pandas
+
+📊 Interactive dashboards built in Microsoft Excel using Pivot Tables and calculated fields
+
+📈 Analysis of key metrics such as Total Sales, Total Cost, Profit, and Profit Margin
+🌍 Sales distribution analysis by country
+
+🗂 Product category performance insights
+
+🏆 Identification of top branches and top customers
 
 
 
